@@ -1,3 +1,3 @@
 # Calculator
-Take a look over ths.
+Click here:
 https://charitha-byte.github.io/Calculator.github.io/
